@@ -14,7 +14,8 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.rememberNavController
 import com.example.logincomposefirebase.navigation.NavGraph
-import com.yourname.loginapp.ui.theme.LoginAppTheme
+import com.example.logincomposefirebase.ui.theme.LoginAppTheme
+
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

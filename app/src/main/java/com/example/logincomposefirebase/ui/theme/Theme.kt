@@ -1,4 +1,4 @@
-package com.yourname.loginapp.ui.theme
+package com.example.logincomposefirebase.ui.theme
 
 import android.app.Activity
 import androidx.compose.foundation.isSystemInDarkTheme
