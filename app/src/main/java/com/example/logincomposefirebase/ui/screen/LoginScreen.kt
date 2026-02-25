@@ -165,8 +165,9 @@ fun LoginScreen(
                         Text("Belum punya akun?", color = GrayText)
                         TextButton(onClick = onNavigateToRegister) {
                             Text(
-                                fontSize = 15.sp,
                                 text = "Daftar Sekarang!",
+                                fontSize = 13.sp,
+                                maxLines = 1,
                                 color = BrightBlue,
                                 fontWeight = FontWeight.Bold
                             )
